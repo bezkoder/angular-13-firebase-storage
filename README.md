@@ -1,6 +1,40 @@
-# Angular13FirebaseStorage
+# Angular 13 File Upload to Firebase Storage example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+I will show you how to make Angular 13 Firebase Storage: File Upload/Display/Delete Application using `@angular/fire` & `AngularFireStorage`. Files' info will be stored in Firebase Realtime Database.
+
+![angular-13-firebase-storage-file-upload-example](angular-13-firebase-storage-file-upload-example.png)
+
+For more detail, please visit:
+> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-13-firebase-storage/)
+
+More Practice:
+> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
+
+> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-13-firestore-crud-angularfirestore/)
+
+> [Angular CRUD Application example with Web API](https://www.bezkoder.com/angular-12-crud-app/)
+
+> [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-12-form-validation/)
+
+Fullstack with Node Express:
+> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-12-node-js-express-mysql/)
+
+> [Angular + Node + Express + PostgreSQL example](https://www.bezkoder.com/angular-12-node-js-express-postgresql/)
+
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/angular-12-mongodb-node-js-express/)
+
+Fullstack with Spring Boot:
+> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/angular-12-spring-boot-crud/)
+
+> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/angular-12-spring-boot-mysql/)
+
+> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/angular-12-spring-boot-postgresql/)
+
+> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-12-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [Angular + Django example](https://www.bezkoder.com/django-angular-12-crud-rest-framework/)
 
 ## Development server
 
